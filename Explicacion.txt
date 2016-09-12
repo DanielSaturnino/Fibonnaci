@@ -1,0 +1,5 @@
+Bueno mi computadora resistio el iterativo hasta el :1000000000000
+y el recursivo se quedo con:1000000
+Yo creo que esto se debe a que en modo recursivo llama mas variables temporales que se alojan 
+en ram lo que provoca que la pila del micro se desvorde más rápido 
+por el almacenamiento de variables, cosa contraria a la de la forma iterativa. 
